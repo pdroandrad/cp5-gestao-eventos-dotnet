@@ -48,7 +48,7 @@ A API foi construída com foco em **boas práticas REST**, incluindo:
 
 1. Clone o repositório:
    ```bash
-   git clone https://https://github.com/pdroandrad/cp5-gestao-eventos-dotnet
+   git clone https://github.com/pdroandrad/cp5-gestao-eventos-dotnet.git
    ```
 
 2. Acesse a pasta do projeto:
