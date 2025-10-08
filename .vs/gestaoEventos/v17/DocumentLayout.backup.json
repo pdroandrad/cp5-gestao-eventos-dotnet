@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\cp5\\gestaoEventos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01FF8508-CF77-49BF-BC6C-5D074BFCCDAD}|gestaoEventos\\gestaoEventos.csproj|d:\\users\\pedro\\documents\\estudo\\fiap\\2tdspv\\net\\cp5\\gestaoeventos\\gestaoeventos\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FF8508-CF77-49BF-BC6C-5D074BFCCDAD}|gestaoEventos\\gestaoEventos.csproj|solutionrelative:gestaoeventos\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FF8508-CF77-49BF-BC6C-5D074BFCCDAD}|gestaoEventos\\gestaoEventos.csproj|d:\\users\\pedro\\documents\\estudo\\fiap\\2tdspv\\net\\cp5\\gestaoeventos\\gestaoeventos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01FF8508-CF77-49BF-BC6C-5D074BFCCDAD}|gestaoEventos\\gestaoEventos.csproj|solutionrelative:gestaoeventos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FF8508-CF77-49BF-BC6C-5D074BFCCDAD}|gestaoEventos\\gestaoEventos.csproj|d:\\users\\pedro\\documents\\estudo\\fiap\\2tdspv\\net\\cp5\\gestaoeventos\\gestaoeventos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FF8508-CF77-49BF-BC6C-5D074BFCCDAD}|gestaoEventos\\gestaoEventos.csproj|solutionrelative:gestaoeventos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FF8508-CF77-49BF-BC6C-5D074BFCCDAD}|gestaoEventos\\gestaoEventos.csproj|d:\\users\\pedro\\documents\\estudo\\fiap\\2tdspv\\net\\cp5\\gestaoeventos\\gestaoeventos\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FF8508-CF77-49BF-BC6C-5D074BFCCDAD}|gestaoEventos\\gestaoEventos.csproj|solutionrelative:gestaoeventos\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FF8508-CF77-49BF-BC6C-5D074BFCCDAD}|gestaoEventos\\gestaoEventos.csproj|d:\\users\\pedro\\documents\\estudo\\fiap\\2tdspv\\net\\cp5\\gestaoeventos\\gestaoeventos\\controllers\\bemvindocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FF8508-CF77-49BF-BC6C-5D074BFCCDAD}|gestaoEventos\\gestaoEventos.csproj|solutionrelative:gestaoeventos\\controllers\\bemvindocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventosController.cs",
+              "DocumentMoniker": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\cp5\\gestaoEventos\\gestaoEventos\\Controllers\\EventosController.cs",
+              "RelativeDocumentMoniker": "gestaoEventos\\Controllers\\EventosController.cs",
+              "ToolTip": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\cp5\\gestaoEventos\\gestaoEventos\\Controllers\\EventosController.cs",
+              "RelativeToolTip": "gestaoEventos\\Controllers\\EventosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:55:07.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\cp5\\gestaoEventos\\gestaoEventos\\Program.cs",
+              "RelativeDocumentMoniker": "gestaoEventos\\Program.cs",
+              "ToolTip": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\cp5\\gestaoEventos\\gestaoEventos\\Program.cs",
+              "RelativeToolTip": "gestaoEventos\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAnwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:22:28.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BemVindoController.cs",
+              "DocumentMoniker": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\cp5\\gestaoEventos\\gestaoEventos\\Controllers\\BemVindoController.cs",
+              "RelativeDocumentMoniker": "gestaoEventos\\Controllers\\BemVindoController.cs",
+              "ToolTip": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\cp5\\gestaoEventos\\gestaoEventos\\Controllers\\BemVindoController.cs",
+              "RelativeToolTip": "gestaoEventos\\Controllers\\BemVindoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:04:19.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\cp5\\gestaoEventos\\gestaoEventos\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "gestaoEventos\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\cp5\\gestaoEventos\\gestaoEventos\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "gestaoEventos\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:04:04.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\cp5\\gestaoEventos\\gestaoEventos\\appsettings.json",
+              "RelativeDocumentMoniker": "gestaoEventos\\appsettings.json",
+              "ToolTip": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\cp5\\gestaoEventos\\gestaoEventos\\appsettings.json",
+              "RelativeToolTip": "gestaoEventos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T19:58:44.479Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
